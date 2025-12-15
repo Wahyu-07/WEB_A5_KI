@@ -1,4 +1,4 @@
-# Logs
+cd# Logs
 logs
 *.log
 npm-debug.log*
@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local Documentation
+A5_Laporan_Implementasi.md
+FRONTEND_GUIDE.md
